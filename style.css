@@ -71,6 +71,12 @@ h1 {
     color: #24252A;
 }
 
+#soarn-logo {
+    display: block;
+    height: 100%;
+    width: 100%;
+}
+
 /* Microsoft form links */
 .form-container {
     display: flex;
