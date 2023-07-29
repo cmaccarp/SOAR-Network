@@ -12,7 +12,7 @@ footer.innerHTML = `
                 <br>
                 Connor Carpenter
                 <br>
-                Nicolas Crespo-Berger
+                Nicolas Crespo-Berker
             <p>
         </div>
 
