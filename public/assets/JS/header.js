@@ -1,4 +1,4 @@
-const header = document.createElement('template');
+const header = document.createElement("template");
 header.innerHTML = `
 
 <header>
@@ -12,6 +12,6 @@ header.innerHTML = `
         </ul>
     </nav>
 </header>
-`
+`;
 
 document.body.appendChild(header.content);
